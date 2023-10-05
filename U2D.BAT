@@ -4,4 +4,3 @@ unixdos
 copy out %1
 del in
 del out
-
